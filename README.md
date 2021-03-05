@@ -1,4 +1,4 @@
-# vue-anime-yt
+# OchiDO352
 
 ## Project setup
 ```
